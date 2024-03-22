@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱Actualmente estoy aprendiendo.
 <!--
 **2004Gadiel1994/2004Gadiel1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
